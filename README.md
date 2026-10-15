@@ -33,7 +33,7 @@ To respect the privacy and confidentiality of Fire Neural Network (FNN), all inv
 
 Explore the inventory tracking system in Excel for the web.
 
-[**View the FNN Inventory Tracking System Online**](https://onedrive.live.com/:x:/g/personal/7fef5fbc3e3db52d/IQA2RPPSiYjtS5vMUbH0J6fhAXrackvY5IDWt6NeQ6WijKI?rtime=i63lRu8q30g&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy83ZmVmNWZiYzNlM2RiNTJkL0lRQTJSUFBTaVlqdFM1dk1VYkgwSjZmaEFYcmFja3ZZNUlEV3Q2TmVRNldpaktJ) 
+[**View the FNN Inventory Tracking System Online**](https://onedrive.live.com/:x:/g/personal/7FEF5FBC3E3DB52D/IQBv4vB70U01QJaKAnzfzUIfAW6Z8Bewb-fQCeQ1LJCnsfc?resid=7FEF5FBC3E3DB52D!s7bf0e26f4dd14035968a027cdfcd421f&ithint=file%2Cxlsx&e=o0595U&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy83ZmVmNWZiYzNlM2RiNTJkL0lRQnY0dkI3MFUwMVFKYUtBbnpmelVJZkFXNlo4QmV3Yi1mUUNlUTFMSkNuc2ZjP2U9bzA1OTVV) 
 
 You can open the workbook in your browser to explore its inventory records, component relationships, and tracking functionality.
 
